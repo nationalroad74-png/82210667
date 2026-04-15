@@ -5,7 +5,7 @@ metadata:
 spec:
   ingressClassName: webapprouting.kubernetes.azure.com
   rules:
-  - host: cloud-sample.cepg-aa.kubepia.net
+  - host: cloud-sample.82210667.ce.kubepia.net
     http:
       paths:
       - path: /
