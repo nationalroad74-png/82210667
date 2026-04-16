@@ -98,7 +98,7 @@
 
 	<build>
 		<plugins>
-<!--
+
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
@@ -108,7 +108,7 @@
                     </image>
                 </configuration>
 			</plugin>
--->
+<!--
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
@@ -117,7 +117,7 @@
 					<mainClass>com.example.demo.DemoApplication</mainClass>
 				</configuration>
 			</plugin>
-
+-->
 			 <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
