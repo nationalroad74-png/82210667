@@ -30,3 +30,5 @@ spec:
             - key: application.yml
               path: application.yml
           defaultMode: 420
+          persistentVolumeClaim:
+            claimName: pvc
